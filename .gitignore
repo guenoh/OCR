@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+# Claude Code
+.claude/
+
+# Output files
+screenshot.png
+screenshot_processed.png
+ocr_results.txt
+*.pyc
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
