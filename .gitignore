@@ -7,6 +7,7 @@ venv/
 # Output files
 screenshot.png
 screenshot_processed.png
+screenshot_with_ocr.png
 ocr_results.txt
 *.pyc
 __pycache__/
